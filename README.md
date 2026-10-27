@@ -7,8 +7,7 @@
 | **Autora** | Maria Eduarda Vieira |
 | **Matéria** | Programação Backend |
 | **Instituição** | SENAI — Curso Técnico em Desenvolvimento de Sistemas |
-| **Data de Início** | 06/10/2026 |
-| **Data de Término** | 19/10/2026 |
+| **Data** | 27/10/2026 |
 
 ---
 
